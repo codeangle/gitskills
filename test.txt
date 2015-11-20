@@ -1,2 +1,4 @@
-create test.txt on origin dev branch
 
+create test.txt on origin dev branch
+create test.txt on clone dev branch
+two push confict fixed between origin and clone
